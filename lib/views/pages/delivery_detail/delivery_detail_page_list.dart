@@ -1,0 +1,13 @@
+export 'package:multikart/controllers/pages_controller/delivery_detail_controller.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_utils/delivery_detail_constant.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/address_list_card.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_utils/delivery_detail_widgets.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/address_list_layout.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/address_detail.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/custom_radio.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/remove_edit_layout.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/add_address_button.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/expected_delivery_layout.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/delivery_detail_card.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/delivery_data.dart';
+export 'package:multikart/views/pages/delivery_detail/delivery_detail_layouts/delivery_detail_data.dart';

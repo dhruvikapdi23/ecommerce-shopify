@@ -1,0 +1,274 @@
+{
+  "project_info": {
+    "project_number": "713436851366",
+    "project_id": "multikart-e57bb",
+    "storage_bucket": "multikart-e57bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713436851366:android:93652d3c3300b388391867",
+        "android_client_info": {
+          "package_name": "com.example.multikart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713436851366-9faegorr6ukfc9i302groh3nflnikvsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multikart",
+            "certificate_hash": "5dc4eefd147741939978bcd403f44d9c88856294"
+          }
+        },
+        {
+          "client_id": "713436851366-abdvv2lteoqifhk31s1cha3kmu5u4noe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multikart",
+            "certificate_hash": "61f50f28023120220229a66bbbf3b2923f6fee2c"
+          }
+        },
+        {
+          "client_id": "713436851366-vavs4j2m0gqvbvo24j7a1b1mur77ph50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multikart",
+            "certificate_hash": "fb5a3c26c9ff2957c6b303200a10944f632e5c5f"
+          }
+        },
+        {
+          "client_id": "713436851366-vds2i5gbqvh83tu25a7ieg3j9lsr7jd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multikart",
+            "certificate_hash": "0a34f6d007b910470cc1c09736ea975f301ae61d"
+          }
+        },
+        {
+          "client_id": "713436851366-4ichl1husbkip4cjqspksbf339gcfjja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvBvc7KGR_r_HeUN44e99KMfNAPB2Yks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713436851366-4ichl1husbkip4cjqspksbf339gcfjja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713436851366-0dv22l1uscs8f82m0ulbph5li85e51if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.multikart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713436851366:android:80d13de334b0892e391867",
+        "android_client_info": {
+          "package_name": "com.multikart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713436851366-0e6bkrhip99mp9iuhq2p2bqcefocvc26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multikart",
+            "certificate_hash": "0a34f6d007b910470cc1c09736ea975f301ae61d"
+          }
+        },
+        {
+          "client_id": "713436851366-q4euk4ukjhb2ad53rr5d6bpolnkon7ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multikart",
+            "certificate_hash": "fb5a3c26c9ff2957c6b303200a10944f632e5c5f"
+          }
+        },
+        {
+          "client_id": "713436851366-tcv09s3nd6i52ktfcvvoph6r4t8fpdhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multikart",
+            "certificate_hash": "5dc4eefd147741939978bcd403f44d9c88856294"
+          }
+        },
+        {
+          "client_id": "713436851366-4ichl1husbkip4cjqspksbf339gcfjja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvBvc7KGR_r_HeUN44e99KMfNAPB2Yks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713436851366-4ichl1husbkip4cjqspksbf339gcfjja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713436851366-0dv22l1uscs8f82m0ulbph5li85e51if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.multikart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713436851366:android:5311e4d2ee141bd1391867",
+        "android_client_info": {
+          "package_name": "com.webiots.multikart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713436851366-kroojh7npnu4mokkgm225d9pfeh004tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.multikart",
+            "certificate_hash": "fb5a3c26c9ff2957c6b303200a10944f632e5c5f"
+          }
+        },
+        {
+          "client_id": "713436851366-n1eq27fpphf8p5icss0ajticnlngcs89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.multikart",
+            "certificate_hash": "5dc4eefd147741939978bcd403f44d9c88856294"
+          }
+        },
+        {
+          "client_id": "713436851366-r04b9eoonsv030nmb15q5l810iqd9q3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.multikart",
+            "certificate_hash": "0a34f6d007b910470cc1c09736ea975f301ae61d"
+          }
+        },
+        {
+          "client_id": "713436851366-4ichl1husbkip4cjqspksbf339gcfjja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvBvc7KGR_r_HeUN44e99KMfNAPB2Yks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713436851366-4ichl1husbkip4cjqspksbf339gcfjja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713436851366-0dv22l1uscs8f82m0ulbph5li85e51if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.multikart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713436851366:android:ea486b3ab6258d4a391867",
+        "android_client_info": {
+          "package_name": "com.webiots.multikartshopify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713436851366-9v2gpda19uqj8ncivlh29jrnneorc64n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.multikartshopify",
+            "certificate_hash": "0a34f6d007b910470cc1c09736ea975f301ae61d"
+          }
+        },
+        {
+          "client_id": "713436851366-fq6t7qaih2pk5s9uahc4luk115e3thm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.multikartshopify",
+            "certificate_hash": "5dc4eefd147741939978bcd403f44d9c88856294"
+          }
+        },
+        {
+          "client_id": "713436851366-ju3ri2cbmfbaphnrefjp8np95ul42bmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.multikartshopify",
+            "certificate_hash": "fb5a3c26c9ff2957c6b303200a10944f632e5c5f"
+          }
+        },
+        {
+          "client_id": "713436851366-kmpaujhr4v1d11jg11p5fpt41p2iq1pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.multikartshopify",
+            "certificate_hash": "61f50f28023120220229a66bbbf3b2923f6fee2c"
+          }
+        },
+        {
+          "client_id": "713436851366-pks9p2ald4f8qelvfad0l097a851c5ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.multikartshopify",
+            "certificate_hash": "a9d89751791da2266d475b4507182536d9be42a2"
+          }
+        },
+        {
+          "client_id": "713436851366-4ichl1husbkip4cjqspksbf339gcfjja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvBvc7KGR_r_HeUN44e99KMfNAPB2Yks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713436851366-4ichl1husbkip4cjqspksbf339gcfjja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713436851366-0dv22l1uscs8f82m0ulbph5li85e51if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.multikart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
